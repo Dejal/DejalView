@@ -9,7 +9,7 @@ Donations
 
 I wrote DejalView for my own use, but I'm making it available for the benefit of the iOS developer community.
 
-If you find it useful, a donation via PayPal (or something from my Amazon.com Wishlist) would be very much appreciated. Appropriate links can be found on the Dejal Developer page:
+If you find it useful, a donation via PayPal (or something from my Amazon.com Wish List) would be very much appreciated. Appropriate links can be found on the Dejal Developer page:
 
 <http://www.dejal.com/developer>
 
@@ -29,7 +29,9 @@ For news on updates, also check out the Dejal Developer page or the Dejal Blog f
 Requirements
 ------------
 
-This code requires Xcode 4 or later for the `weak` attribute and lack of ivars, but should work with all versions of iOS, and with or without ARC.
+- Xcode 4 or later for the `weak` attribute and lack of ivars.
+- Should work with all versions of iOS.
+- Should work with or without ARC.
 
 
 Features
@@ -68,16 +70,17 @@ License and Warranty
 
 This code uses the standard BSD license.  See the included License.txt file.  Please also see the [Dejal Open Source License](http://www.dejal.com/developer/license/) web page for more information.
 
-Attribution is required, but a non-attribution license is also available.  You're welcome to use it in commercial, closed-source, open source, free or any other kind of software, as long as you credit Dejal appropriately.
+You can use this code at no cost, with attribution.  A non-attribution license is also available, for a fee.
 
+You're welcome to use it in commercial, closed-source, open source, free or any other kind of software, as long as you credit Dejal appropriately.
 
-The placement and format of the credit is up to you, but we prefer the credit to be in the software's "About" window or view, if any. Alternatively, you could put the credit in the software's documentation, or on the web page for the product. The suggested format for the attribution is:
+The placement and format of the credit is up to you, but I prefer the credit to be in the software's "About" window or view, if any. Alternatively, you could put the credit in the software's documentation, or on the web page for the product. The suggested format for the attribution is:
 
 > Includes DejalView code from [Dejal](http://www.dejal.com/developer/).
 
 Where possible, please link the text "Dejal" to the Dejal Developer web page, or include the page's URL: <http://www.dejal.com/developer/>.
 
-This code comes with no warranty of any kind.  We hope it'll be useful to you, but we make no guarantees regarding its functionality or otherwise.
+This code comes with no warranty of any kind.  I hope it'll be useful to you, but I make no guarantees regarding its functionality or otherwise.
 
 
 Support / Contact / Bugs / Features
